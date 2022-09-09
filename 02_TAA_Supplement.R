@@ -36,7 +36,7 @@ View(COUNTIES)
 
 # Using filter()to get just Snohomish county in Washington
 SNOHOMISH <- filter(COUNTIES, state=="Washington" &
-                      county=="Snohomish")
+                      county=="Snohomish")x<
 View(SNOHOMISH)
 
 # Set n to legth of data set
