@@ -11,7 +11,7 @@ library(socviz)
 # Reminder of what gapminder looks like
 gapminder
 
-# Defining the landscape/dimensionality of our graph 
+# Defining the landscape/dimensional of our graph 
 p <- ggplot(data = gapminder)
 p
 

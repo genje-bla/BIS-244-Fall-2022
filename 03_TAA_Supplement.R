@@ -52,3 +52,4 @@ p + geom_point(color="brown")+
        title = "COVID-19 Cases in Lehigh County, Pennsylvania",
        subtitle = "Data points are cumulative cases",
        caption = "Source: NY Times web GitGub repo")
+

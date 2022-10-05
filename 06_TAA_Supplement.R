@@ -200,3 +200,4 @@ p + geom_col() + guides(fill = FALSE) +
                    average life expectancies, 1960-2015",
        caption = "Data: OECD. After a chart by Christopher Ingraham,
                   Washington Post, December 27th 2017.")
+

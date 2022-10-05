@@ -119,3 +119,4 @@ str(owid_covid_data$s_bucket)
 p <- ggplot(data = owid_covid_data, mapping = aes(x = date, y = new_cases))
 p + geom_point(alpha = 0.2) + 
   facet_wrap(owid_covid_data$s_bucket)
+
